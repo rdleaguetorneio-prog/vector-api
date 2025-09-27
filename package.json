@@ -2,7 +2,7 @@
   "name": "vector-api",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": "18.x" },
+  "engines": { "node": "22.x" },
   "dependencies": {
     "formidable": "2.1.1",
     "potrace": "^2.1.8"
